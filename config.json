@@ -1,0 +1,5 @@
+{
+  "expressionField": "Expression",
+  "readingField": "ExpressionReading",
+  "sentenceField": "Sentence"
+}
